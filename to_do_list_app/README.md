@@ -370,22 +370,4 @@ The Go backend provides the following REST API endpoints:
 - Flutter: Follows Dart style guide
 - Go: Follows standard Go formatting (`go fmt`)
 
-## 📄 License
-
-This project is open source and available for personal use.
-
-## 👥 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements.
-
-## 📞 Support
-
-If you encounter any issues:
-
-1. Check the Troubleshooting section above
-2. Verify all prerequisites are installed correctly
-3. Ensure MySQL, Go server, and Flutter app are all running
-
----
-
 **Happy Coding! 🎉**
